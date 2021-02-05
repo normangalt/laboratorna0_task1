@@ -1,7 +1,7 @@
 '''
 Skyscrapers.py
 
-GITHUB repository link:https://github.com/normangalt/task_1_laboratorta_0
+GITHUB repository link:https://github.com/normangalt/laboratorna0_task1
 '''
 
 def read_input(path: str):
